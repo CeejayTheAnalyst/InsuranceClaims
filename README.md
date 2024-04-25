@@ -4,6 +4,10 @@
 
 In today's healthcare landscape, the effective management and analysis of patient data are crucial for ensuring both the efficiency of healthcare services and the safety of patients. In this project, we aim to utilize advanced data analytics techniques to identify potential cases of medication abuse, splitting claims, member abuse, and various other anomalies within healthcare claims data.
 
+## Tools Used 
+1. Python Pandas
+2. Pyspark and spark SQL
+
 ## Problem Statement
 
 Third Party Payers often face challenges in detecting patterns of abuse, inefficiencies, and potential risks within their systems. Without proper analysis, these issues can lead to financial losses, compromised patient care, and regulatory non-compliance. Hence, there is a critical need to develop data-driven approaches to mitigate these challenges.
