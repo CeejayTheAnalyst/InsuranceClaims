@@ -6,7 +6,7 @@ In today's healthcare landscape, the effective management and analysis of patien
 
 ## Problem Statement
 
-Healthcare providers often face challenges in detecting patterns of abuse, inefficiencies, and potential risks within their systems. Without proper analysis, these issues can lead to financial losses, compromised patient care, and regulatory non-compliance. Hence, there is a critical need to develop data-driven approaches to mitigate these challenges.
+Third Party Payers often face challenges in detecting patterns of abuse, inefficiencies, and potential risks within their systems. Without proper analysis, these issues can lead to financial losses, compromised patient care, and regulatory non-compliance. Hence, there is a critical need to develop data-driven approaches to mitigate these challenges.
 
 ## Business Requirements Document (BRD)
 
@@ -34,10 +34,6 @@ To address the aforementioned business questions, we propose the following solut
 1. **Data Preprocessing**: Utilize Pandas for preprocessing and initial Exploratory Data Analysis (EDA) to clean and prepare the healthcare claims data for analysis.
 
 2. **Data Analysis with Spark SQL and PySpark**: Leverage Spark SQL and PySpark for advanced analysis of the preprocessed data, enabling scalable and efficient processing of large datasets.
-
-3. **Anomaly Detection Algorithms**: Apply anomaly detection algorithms to identify patterns indicative of medication abuse, splitting claims, member abuse, and other anomalies within the healthcare claims data.
-
-4. **Visualization and Reporting**: Present the findings in an intuitive and visually appealing manner using charts, graphs, and summary reports to facilitate decision-making by stakeholders.
 
 ## Business Impact
 
